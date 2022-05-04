@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Ping ip
 
 for ip in `seq 1 254` ; do
 
